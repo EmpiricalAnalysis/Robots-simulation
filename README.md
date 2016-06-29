@@ -8,4 +8,4 @@ This is a project I completed while taking "6.00.2x Intro to Computational Think
 - Telling the difference between a class and an instance of that class.
 - Utilizing libraries as black boxes.
 
-The python codes I wrote are in ps2.py, and an overview of this simulation is provided in the file "1 - Simulation Overview.pdf".
+The python codes I wrote are in ps2.py, and an overview of this simulation is provided in the file "Simulation Overview.pdf".
