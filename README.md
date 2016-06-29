@@ -1,6 +1,6 @@
 # Robots Simulation
 
-This is a project I completed while taking "6.00.2x Intro to Computational Thinking and Data Science" by MIT on Edx. The purpose of this project is to allow students to practice Object Oriented Programming. The objectives include: 
+This is a project I completed while taking "6.00.2x Intro to Computational Thinking and Data Science" on Edx. The purpose of this project is to allow students to practice Object Oriented Programming. The objectives include: 
 
 - Implementing new classes and their attributes.
 - Understanding class methods.
