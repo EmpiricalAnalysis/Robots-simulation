@@ -1,0 +1,17 @@
+room=RectangularRoom(9,7)
+rob = Robot(room, 2.0)
+
+print "rob's position is: " + str(rob.getRobotPosition())
+print "rob's directio is: " + str(rob.getRobotDirection())
+
+
+pos=Position(6.90,3.00)
+rob.setRobotPosition(pos)
+
+rob.setRobotDirection(50)
+
+print "rob's position is: " + str(rob.getRobotPosition())
+print "rob's directio is: " + str(rob.getRobotDirection())
+
+
+

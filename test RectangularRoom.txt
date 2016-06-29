@@ -1,0 +1,29 @@
+room=RectangularRoom(9,7)
+pos=Position(8.90,7.00)
+print room.isPositionInRoom(pos)
+
+pos=Position(6.90,3.00)
+print room.isPositionInRoom(pos)
+
+pos=Position(1,1)
+room.cleanTileAtPosition(pos)
+
+pos=Position(2,3)
+room.cleanTileAtPosition(pos)
+
+print room.isTileCleaned(1, 1)
+
+print room.isTileCleaned(3, 4)
+
+
+print room.getNumTiles()
+
+
+print room.getNumCleanedTiles()
+
+
+
+pos = room.getRandomPosition()
+print pos
+
+print room.isPositionInRoom(pos)
