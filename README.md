@@ -1,11 +1,9 @@
 # Robots Simulation
 
-This is a project I completed while taking "MITx: 6.00.2x Intro to Computational Thinking and Data Science" on Edx. The purpose of this project is to allow students to practice Object Oriented Programming. The objectives include: 
+In this project I practiced Object Oriented Programming by 
 
-- Implementing new classes and their attributes.
-- Understanding class methods.
-- Understanding inheritance.
-- Telling the difference between a class and an instance of that class.
-- Utilizing libraries as black boxes.
+- implementing new classes and attributes,
+- implementing class methods, and
+- making use of inheritance.
 
 The python codes I wrote are in ps2.py, and an overview of this simulation is provided in Simulation Overview.pdf .
