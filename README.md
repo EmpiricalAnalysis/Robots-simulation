@@ -1,6 +1,6 @@
 # Robots Simulation
 
-In this project I practiced Object Oriented Programming by 
+In this course project I practiced Object Oriented Programming by 
 
 - implementing new classes and attributes,
 - implementing class methods, and
